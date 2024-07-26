@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlc-dapper-benchmark", "sqlc-dapper-benchmark\sqlc-dapper-benchmark.csproj", "{8D96C905-7830-487E-B35B-86C186592128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D96C905-7830-487E-B35B-86C186592128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D96C905-7830-487E-B35B-86C186592128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D96C905-7830-487E-B35B-86C186592128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D96C905-7830-487E-B35B-86C186592128}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

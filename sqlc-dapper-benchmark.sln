@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlc-dapper-benchmark", "sqlc-dapper-benchmark\sqlc-dapper-benchmark.csproj", "{8D96C905-7830-487E-B35B-86C186592128}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqlcDapperBenchmark", "SqlcDapperBenchmark\SqlcDapperBenchmark.csproj", "{8D96C905-7830-487E-B35B-86C186592128}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
